@@ -1,0 +1,42 @@
+body {
+    background-color:white-space;
+}
+header {
+    background-color: green;
+}
+div{
+   font-size:20px;
+   font-style:oblique;
+   background-color:black;
+}
+
+nav {
+    border: 1px solid black;
+    background-color:red;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
+
+title.normal {
+    font-style: oblique;
+}
+p {
+    color: blue;
+	font-size:20px;
+} 
+
+h{
+  color:blue;
+  font-size:1px;
+footer{
+     font-style:italic;
+	 font-color:#0000FF;
+	 background-color: red;
+ }
+
+
+
+  
+  
