@@ -1,3 +1,17 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+#top {
+    background-color: yellow;
+    padding: 10px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
 body {
     background-color:white-space;
 }
@@ -7,8 +21,20 @@ header {
 div{
    font-size:20px;
    font-style:oblique;
-   background-color:black;
+   background-color:cyan;
 }
+
+<style type="text/css">
+ 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+</style>
 
 nav {
     border: 1px solid black;
@@ -30,13 +56,17 @@ p {
 h{
   color:blue;
   font-size:1px;
+}
 footer{
      font-style:italic;
 	 font-color:#0000FF;
 	 background-color: red;
  }
 
-
+ul{
+  font-size:20px;
+  font-color:black;
+}
 
   
   
